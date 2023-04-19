@@ -1,6 +1,6 @@
 # praytime
 
-A new Flutter project.
+A new PrayTime Projejct.
 
 ## Getting Started
 
