@@ -1,0 +1,38 @@
+name: praytime
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  smooth_compass: ^2.0.17
+  geolocator: ^9.0.2
+  adhan: ^1.1.16
+  intl: ^0.18.0
+  geocoding: ^2.1.0
+  font_awesome_flutter: ^10.4.0
+#  flutter_qiblah: ^2.1.0
+#  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/
